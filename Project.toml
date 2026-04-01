@@ -12,7 +12,7 @@ MacroTools = "1914dd2f-81c6-5fcd-8719-6d5c9610ff09"
 
 [compat]
 CSV = "0.10.11"
-DelimitedFiles = "1.9.1"
+DelimitedFiles = "1.6"
 HDF5 = "0.16.16"
 JSON = "0.21.4"
 julia = "1.6"
